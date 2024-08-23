@@ -1,0 +1,361 @@
+{
+
+  "title": "CRE Chinese Test",
+  "description": "The CRE Chinese Test assesses your proficiency in the Chinese language across reading, writing, listening, and speaking skills. To ensure the security and integrity of the exam, you must use the SAFT exam browser, which can be downloaded from the official CRE website. This secure browser creates a controlled testing environment to protect your results. The total test duration is 2 hours. Be sure to review the exam guidelines carefully and familiarize yourself with the SAFT browser prior to your test date. With diligent preparation, you can demonstrate your Chinese language abilities with confidence. Good luck!",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "questionText": "Which of the following are programming languages?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Python"
+        },
+        {
+          "id": "b",
+          "text": "HTML"
+        },
+        {
+          "id": "c",
+          "text": "JavaScript"
+        },
+        {
+          "id": "d",
+          "text": "CSS"
+        }
+      ],
+      "correctOptions": [ "a", "c" ]
+    },
+    {
+      "id": 2,
+      "type": "single-choice",
+      "questionText": "In the process of designing a user interface (UI) for a software application, what key principles should a designer prioritize to ensure an optimal user experience?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A. Consistency, responsiveness, and accessibility to cater to diverse user needs and capabilities."
+        },
+        {
+          "id": "b",
+          "text": "B. Minimalism, intuitive navigation, and seamless integration of features for efficient task completion."
+        },
+        {
+          "id": "c",
+          "text": "Creative Style Sheets"
+        },
+        {
+          "id": "d",
+          "text": "Colorful Style Sheets"
+        }
+      ],
+      "correctOptions": [ "a" ]
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "questionText": "Explain the concept of inheritance in object-oriented programming.",
+      "answer": "",
+      "correctAnswer": "Inheritance is a mechanism where a new class inherits properties and behavior from an existing class."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "questionText": "Which HTML tags are used to create a form?",
+      "options": [
+        {
+          "id": "a",
+          "text": "<form>"
+        },
+        {
+          "id": "b",
+          "text": "<input>"
+        },
+        {
+          "id": "c",
+          "text": "<button>"
+        },
+        {
+          "id": "d",
+          "text": "<table>"
+        }
+      ],
+      "correctOptions": [ "a", "b", "c" ]
+    },
+    {
+      "id": 5,
+      "type": "single-choice",
+      "questionText": "Which company developed the JavaScript language?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Netscape"
+        },
+        {
+          "id": "b",
+          "text": "Microsoft"
+        },
+        {
+          "id": "c",
+          "text": "Sun Microsystems"
+        },
+        {
+          "id": "d",
+          "text": "IBM"
+        }
+      ],
+      "correctOptions": [ "a" ]
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "questionText": "What is the purpose of the 'use strict' directive in JavaScript?",
+      "answer": "",
+      "correctAnswer": "'use strict' is used to enforce stricter parsing and error handling in JavaScript code."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "questionText": "Which of the following are front-end frameworks?",
+      "options": [
+        {
+          "id": "a",
+          "text": "React"
+        },
+        {
+          "id": "b",
+          "text": "Django"
+        },
+        {
+          "id": "c",
+          "text": "Angular"
+        },
+        {
+          "id": "d",
+          "text": "Ruby on Rails"
+        }
+      ],
+      "correctOptions": [ "a", "c" ]
+    },
+    {
+      "id": 8,
+      "type": "single-choice",
+      "questionText": "What does SQL stand for?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Structured Query Language"
+        },
+        {
+          "id": "b",
+          "text": "Standard Query Language"
+        },
+        {
+          "id": "c",
+          "text": "Simple Query Language"
+        },
+        {
+          "id": "d",
+          "text": "System Query Language"
+        }
+      ],
+      "correctOptions": [ "a" ]
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "questionText": "Describe what an API is.",
+      "answer": "",
+      "correctAnswer": "An API (Application Programming Interface) is a set of protocols and tools that allows different software applications to communicate with each other."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "questionText": "Which of the following are HTTP methods?",
+      "options": [
+        {
+          "id": "a",
+          "text": "GET"
+        },
+        {
+          "id": "b",
+          "text": "POST"
+        },
+        {
+          "id": "c",
+          "text": "DELETE"
+        },
+        {
+          "id": "d",
+          "text": "PUSH"
+        }
+      ],
+      "correctOptions": [ "a", "b", "c" ]
+    },
+    {
+      "id": 11,
+      "type": "single-choice",
+      "questionText": "Which data structure uses LIFO (Last In First Out) principle?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Queue"
+        },
+        {
+          "id": "b",
+          "text": "Stack"
+        },
+        {
+          "id": "c",
+          "text": "Array"
+        },
+        {
+          "id": "d",
+          "text": "Linked List"
+        }
+      ],
+      "correctOptions": [ "b" ]
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "questionText": "What is the difference between '==' and '===' in JavaScript?",
+      "answer": "",
+      "correctAnswer": "'==' performs type coercion and compares values, while '===' compares both values and types."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "questionText": "Which of the following are valid CSS properties?",
+      "options": [
+        {
+          "id": "a",
+          "text": "color"
+        },
+        {
+          "id": "b",
+          "text": "background-color"
+        },
+        {
+          "id": "c",
+          "text": "font-size"
+        },
+        {
+          "id": "d",
+          "text": "size"
+        }
+      ],
+      "correctOptions": [ "a", "b", "c" ]
+    },
+    {
+      "id": 14,
+      "type": "single-choice",
+      "questionText": "Which tag is used to define a table in HTML?",
+      "options": [
+        {
+          "id": "a",
+          "text": "<table>"
+        },
+        {
+          "id": "b",
+          "text": "<tr>"
+        },
+        {
+          "id": "c",
+          "text": "<td>"
+        },
+        {
+          "id": "d",
+          "text": "<div>"
+        }
+      ],
+      "correctOptions": [ "a" ]
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "questionText": "Explain the concept of 'callback functions' in JavaScript.",
+      "answer": "",
+      "correctAnswer": "A callback function is a function that is passed as an argument to another function and is executed after the completion of that function."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "questionText": "Which of the following are JavaScript frameworks?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vue.js"
+        },
+        {
+          "id": "b",
+          "text": "Laravel"
+        },
+        {
+          "id": "c",
+          "text": "Spring"
+        },
+        {
+          "id": "d",
+          "text": "Ember.js"
+        }
+      ],
+      "correctOptions": [ "a", "d" ]
+    },
+    {
+      "id": 17,
+      "type": "single-choice",
+      "questionText": "What does the 'const' keyword do in JavaScript?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Creates a variable that can be reassigned"
+        },
+        {
+          "id": "b",
+          "text": "Creates a constant variable that cannot be reassigned"
+        },
+        {
+          "id": "c",
+          "text": "Creates a variable that is only available within a function"
+        },
+        {
+          "id": "d",
+          "text": "Creates a variable that is globally available"
+        }
+      ],
+      "correctOptions": [ "b" ]
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "questionText": "What is the purpose of the 'fetch' API in JavaScript?",
+      "answer": "",
+      "correctAnswer": "The 'fetch' API is used to make HTTP requests to servers and handle responses in JavaScript."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "questionText": "Which of the following are common data types in JavaScript?",
+      "options": [
+        {
+          "id": "a",
+          "text": "String"
+        },
+        {
+          "id": "b",
+          "text": "Number"
+        },
+        {
+          "id": "c",
+          "text": "Object"
+        },
+        {
+          "id": "d",
+          "text": "Date"
+        }
+      ],
+      "correctOptions": [ "a", "b", "c" ]
+    }
+  ]
+}

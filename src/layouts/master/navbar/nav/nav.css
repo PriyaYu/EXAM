@@ -1,0 +1,30 @@
+/*-------------------------------------------
+# Navbar
+--------------------------------------------*/
+
+.header-nav {
+    list-style:none;
+}
+
+    .header-nav .nav-link {
+        font-size: 22px;
+        color: #424242;
+        margin-right: 25px;
+        position: relative;
+    }
+
+.icon-badge {
+    position: relative;
+}
+
+    .icon-badge span {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        display: block;
+        font-Size: 11px;
+    }
+
+.dropdown-toggle::after {
+    display: none !important;
+}

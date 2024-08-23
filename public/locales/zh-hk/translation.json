@@ -1,0 +1,121 @@
+{
+  "dashboard": {
+    "title": "儀表板",
+    "latestCourse": {
+      "title": "最新課程"
+    },
+    "upcomingAssessment": {
+      "title": "即將來臨的評估",
+      "today": "今天",
+      "examDay": "考試日"
+    },
+    "account": {
+      "title": "帳戶"
+    },
+    "weeklyActivity": {
+      "title": "每週活動"
+    }
+  },
+  "elearning": {
+    "title": "線上學習",
+    "oneOffTraining": {
+      "title": "一次性培訓",
+      "continue": {
+        "title": "繼續"
+      },
+      "assignToYou": {
+        "title": "指派給你"
+      },
+      "elective": {
+        "title": "選修"
+      }
+    },
+    "regularTraining": {
+      "title": "常規培訓",
+      "assignToYou": {
+        "title": "指派給你"
+      },
+      "elective": {
+        "title": "選修"
+      }
+    }
+  },
+  "assessment": {
+    "title": "評估",
+    "registration": {
+      "title": "註冊",
+      "registerExam": {
+        "title": "報名考試",
+        "subTitle": "選擇你需要的評估、語言和中心",
+        "note": "需要幫助？我們的專業支援團隊可以回答任何問題並確保無縫的考試預訂體驗。隨時聯絡我們",
+        "fields": {
+          "assessment": "評估",
+          "language": "語言",
+          "location": "地點"
+        },
+        "buttons": {
+          "back": "返回",
+          "next": "下一步"
+        }
+      },
+      "registrationRecord": {
+        "title": "註冊記錄",
+        "bookingConfirmation": "預訂確認",
+        "note": "請再次檢查評估預訂資訊。",
+        "creChinese": "CRE 中文",
+        "subTitle": "荃灣測試中心",
+        "buttons": {
+          "print": "打印",
+          "save": "保存"
+        }
+      }
+    },
+    "upcomingAssessment": {
+      "title": "即將來臨的評估"
+    },
+    "examRecord": {
+      "title": "考試記錄",
+      "fields": {
+        "search": "搜尋",
+        "paper": "試卷",
+        "result": "結果",
+        "sortBy": "排序方式"
+      },
+      "buttons": {
+        "reset": "重置"
+      }
+    }
+  },
+  "certificate": {
+    "title": "證書"
+  },
+  "common": {
+    "button": {
+      "back": "返回",
+      "next": "下一步",
+      "submit": "提交",
+      "save": "保存",
+      "start": "開始",
+      "view": "檢視結果",
+      "backto": "返回儀表板",
+      "certificate": "檢視證書",
+      "all": "查看所有結果"
+    }
+  },
+  "examfinish": {
+    "title": "考試結束",
+    "note": "仔細複習你的考試",
+    "content": "提交考試後，您可以查看您的答案並查看您的分數。反思您的表現並找出需要改進的地方。"
+  },
+  "examResult": {
+    "Status": "狀態",
+    "Correct": "正確率",
+    "time": "時間",
+    "date": "日期",
+    "attemp": "嘗試次數"
+  },
+  "model": {
+    "title": "超時",
+    "content": "您必須提交您的考試"
+  }
+}

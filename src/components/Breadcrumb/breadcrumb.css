@@ -1,0 +1,17 @@
+/*-------------------------------------------
+# Breadcrumb
+--------------------------------------------*/
+
+.breadcrumb {
+    display: flex;
+    align-items: center;
+}
+
+    .breadcrumb .breadcrumb-item {
+        display: flex;
+        align-items: center;
+    }
+
+
+
+    

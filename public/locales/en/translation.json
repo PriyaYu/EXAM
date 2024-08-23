@@ -1,0 +1,122 @@
+{
+  "dashboard": {
+    "title": "Dashboard",
+    "latestCourse": {
+      "title": "Latest Course"
+    },
+    "upcomingAssessment": {
+      "title": "Upcoming Assessment",
+      "today": "Today",
+      "examDay": "Exam day"
+    },
+    "account": {
+      "title": "Account"
+    },
+    "weeklyActivity": {
+      "title": "Weekly Activity"
+    }
+  },
+  "elearning": {
+    "title": "Elearning",
+    "oneOffTraining": {
+      "title": "One-off Training",
+      "continue": {
+        "title": "Continue"
+      },
+      "assignToYou": {
+        "title": "Assign to you"
+      },
+      "elective": {
+        "title": "Elective"
+      }
+    },
+    "regularTraining": {
+      "title": "Regular Training",
+      "assignToYou": {
+        "title": "Assign to you"
+      },
+      "elective": {
+        "title": "Elective"
+      }
+    }
+  },
+  "assessment": {
+    "title": "Assessment",
+    "registration": {
+      "title": "Registration",
+      "registerExam": {
+        "title": "Register Exam",
+        "subTitle": "Select the assessment, Language and Center you need.",
+        "note": "Need assistance? Our dedicated support team is available to answer any questions and ensure a seamless exam booking experience. Contact us anytime.",
+        "fields": {
+          "assessment": "Assessment",
+          "language": "Language",
+          "location": "Location"
+        },
+        "buttons": {
+          "back": "Back",
+          "next": "Next"
+        }
+      },
+      "registrationRecord": {
+        "title": "Registration Record",
+        "bookingConfirmation": "Booking Confirmation",
+        "note": "Please check the assessment booking informaation again.",
+        "creChinese": "CRE Chinese",
+        "subTitle": "Tsuen Wan Testing Center",
+        "buttons": {
+          "print": "Print",
+          "save": "Save"
+        }
+      }
+    },
+    "upcomingAssessment": {
+      "title": "Upcoming Assessment"
+    },
+    "examRecord": {
+      "title": "Exam Record",
+      "fields": {
+        "search": "Search",
+        "paper": "Paper",
+        "result": "Result",
+        "sortBy": "Sort By"
+      },
+      "buttons": {
+        "reset": "Reset"
+      }
+    }
+  },
+  "certificate": {
+    "title": "Certificate"
+  },
+  "common": {
+    "button": {
+      "back": "Back",
+      "next": "Next",
+      "submit": "Submit",
+      "save": "Save",
+      "start": "Start",
+      "view": "View Result",
+      "backto": "Back to Dashboard",
+      "certificate": "View Certificate",
+      "all": "View All Result"
+    }
+  },
+  "examfinish": {
+    "title": "Exam Finish",
+    "note": "Review Your Exam with Care",
+    "content": "After submitting your exam, you can review your answers and see your score. Reflect on your performance and identify areas for improvement."
+  },
+  "examResult": {
+    "title": "Result",
+    "Status": "Status",
+    "Correct": "Correct",
+    "time": "Time Span",
+    "date": "Date",
+    "attemp": "No. of Attempt(s)"
+  },
+  "model": {
+    "title": "Time Out",
+    "content": "You must submit your exam."
+  }
+}
